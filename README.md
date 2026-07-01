@@ -52,6 +52,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="left">
