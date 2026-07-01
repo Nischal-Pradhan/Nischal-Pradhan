@@ -39,14 +39,15 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nischal-pradhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal-pradhan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/main/metrics.svg" alt="GitHub metrics" />
 </p>
 
-### 🐍 Contribution Snake
+---
+
+### 🧊 3D Contribution Graph
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ---
