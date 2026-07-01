@@ -10,16 +10,15 @@
 ### 🧠 About Me
 
 - 🎓 Post-Graduate Diploma in **AI & Data Science** — Loyalist College
-- 🏭 Working on my own projects; learning and testing ai and data features**
+- 🏭 Working on my own projects; learning and testing AI and data features
 - 🇨🇦 Based in Toronto, navigating the Express Entry / PR journey while leveling up my skills
 - 🛠️ Philosophy: **learn by shipping** — I'd rather build something real and messy than wait until it's "ready"
 - 🎨 I care a lot about design detail — if it's not clean, it's not done
-- 🌐 Trying to get into milti-lingual (FR/EN) product experiences
+- 🌐 Trying to get into multi-lingual (FR/EN) product experiences
 
 ---
 
 ### 🚀 Featured Project — MindBudget
-
 
 ---
 
@@ -42,6 +41,12 @@
 <p align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nischal-pradhan&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal-pradhan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </p>
 
 ---
