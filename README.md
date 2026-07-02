@@ -2,7 +2,7 @@
 <h3 align="center">I learn by shipping.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8FF&center=true&vCenter=true&width=500&lines=Data+%2B+AI+enthusiast;Builder+of+MindBudget+%F0%9F%92%B0;Bilingual+UI+nerd+(FR%2FEN);Based+in+Toronto+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8FF&center=true&vCenter=true&width=500&lines=Data+%2B+AI+enthusiast;Full+Stack+Developer+%F0%9F%92%B0;Based+in+Toronto+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
 </p>
 
 ---
