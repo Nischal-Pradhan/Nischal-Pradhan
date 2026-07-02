@@ -36,18 +36,18 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/main/metrics.svg" alt="GitHub metrics" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/main/metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
