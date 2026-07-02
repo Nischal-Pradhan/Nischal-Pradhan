@@ -44,14 +44,6 @@
 
 ---
 
-### 🧊 3D Contribution Graph
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/nischal-pradhan/nischal-pradhan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="left">
